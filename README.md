@@ -1,4 +1,5 @@
 # FTP Client (Tkinter)
+<img width="1000" height="660" alt="image" src="https://github.com/user-attachments/assets/609949a6-6b9a-497c-b59b-7316e88e2651" />
 
 Графический FTP/FTPS-клиент на Python с двухпанельным файловым менеджером (локальные и удалённые файлы), логом операций и прогрессом передачи.
 
